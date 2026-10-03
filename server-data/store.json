@@ -1,0 +1,548 @@
+{
+  "sessions": [
+    {
+      "id": "f4e561f8-4acc-4d19-83e9-e0abbe226507",
+      "date": "2026-10-03T01:32:17.783Z",
+      "distance": 70,
+      "targetType": "World Archery 50m",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": [
+        {
+          "id": "fc0be6c6-5f2d-49ce-a1e7-bcd86af9110a",
+          "endNumber": 1,
+          "totalScore": 51,
+          "arrows": [
+            {
+              "id": "2e29611d-da96-4193-ae1d-df592b7962ce",
+              "arrowNumber": 1,
+              "x": -0.20455994630422022,
+              "y": -0.09658108901753498,
+              "score": 8,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "8dfdc803-744b-4464-91a2-bbeec5b7a770",
+              "arrowNumber": 2,
+              "x": -0.2459056967866432,
+              "y": 0.12196073496098671,
+              "score": 7,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "3d6dc77e-94d1-457b-aa9f-1db6ba5ec82d",
+              "arrowNumber": 3,
+              "x": 0.008075341891098176,
+              "y": 0.12196073496098671,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "7e8a2cc8-34c0-4766-be3e-6a1e4ea37f27",
+              "arrowNumber": 4,
+              "x": -0.003737729675308388,
+              "y": -0.15564644684956805,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "e536f954-0c7d-43b1-a90a-760bcf277bb9",
+              "arrowNumber": 5,
+              "x": 0.0789537712895378,
+              "y": -0.0906745532343317,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "db8f7fc2-31d6-4401-8cb5-01bb9285c0f8",
+              "arrowNumber": 6,
+              "x": 0.13801912912157063,
+              "y": 0.06289537712895364,
+              "score": 9,
+              "detectionMethod": "manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3d3a960-2ed1-47cf-b468-87e9589ad36c",
+      "date": "2026-10-03T01:35:29.040Z",
+      "distance": 70,
+      "targetType": "World Archery 50m",
+      "bowDivision": "",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "24e65261-47db-4ae0-b341-e4218ab3f167",
+      "date": "2026-10-03T01:38:17.139Z",
+      "distance": 70,
+      "targetType": "World Archery 50m",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "77d1be40-c6c8-4ab3-bb2b-2f05380535f5",
+      "date": "2026-10-03T01:38:18.272Z",
+      "distance": 70,
+      "targetType": "World Archery 50m",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "8205eb7d-f3c0-4f4b-9024-8f40442cef33",
+      "date": "2026-10-03T01:38:54.681Z",
+      "distance": 70,
+      "targetType": "World Archery 50m",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "18ba0417-e4d6-4c53-984a-7bfa41645a7d",
+      "date": "2026-10-03T01:40:41.947Z",
+      "distance": 50,
+      "targetType": "World Archery 50m",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "5d55c757-d75d-4089-b2ac-9f88e4328791",
+      "date": "2026-10-03T01:42:14.331Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "a99f9654-0205-48a5-ae73-edbdfce98ddd",
+      "date": "2026-10-03T01:42:35.608Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "fe5696a8-cc2a-485d-9022-5705483f4437",
+      "date": "2026-10-03T01:43:53.525Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "1a24e3e4-fdf3-4905-87f6-6cb358dfa8c4",
+      "date": "2026-10-03T01:46:08.300Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "2dd46044-24d9-46c1-a846-3fe3d00ff221",
+      "date": "2026-10-03T01:46:16.537Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "7b3ef252-2c1d-42c3-9bfc-8e53cb95290f",
+      "date": "2026-10-03T01:46:32.685Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "f90065aa-250f-47a6-9031-a8f29a5c0ee4",
+      "date": "2026-10-03T01:47:42.451Z",
+      "distance": 0,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "a47656bc-f073-46ed-a238-f65e226e8c0e",
+      "date": "2026-10-03T01:48:28.484Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "f39bbe7a-3a9e-4dcc-914e-eeb523d4f06a",
+      "date": "2026-10-03T01:48:34.436Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "e06bd1f6-8ab3-4b04-a60d-e88c5c489873",
+      "date": "2026-10-03T01:50:01.085Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": [
+        {
+          "id": "0d421b2b-f0e0-4a5f-aa31-158aca0efdfa",
+          "endNumber": 1,
+          "totalScore": 20,
+          "arrows": [
+            {
+              "id": "f03e4f60-2606-4740-bc18-6baafc2a25ef",
+              "arrowNumber": 1,
+              "x": -0.015550801241714953,
+              "y": 0.018596358754929022,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "4fbd8150-cebd-4317-a0c3-b45506f7dcf2",
+              "arrowNumber": 2,
+              "x": 0.044760466482087494,
+              "y": 0.019103951673797994,
+              "score": 10,
+              "detectionMethod": "manual"
+            }
+          ]
+        },
+        {
+          "id": "d638e707-5b4c-48f5-a01d-a5f5767098e8",
+          "endNumber": 2,
+          "totalScore": 30,
+          "arrows": [
+            {
+              "id": "49431b48-188c-45a4-a22b-e59bee209ec7",
+              "arrowNumber": 1,
+              "x": -0.00964426545851167,
+              "y": 0.006783287188522458,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "738c075a-8cf6-4850-a621-4f53f04c1d41",
+              "arrowNumber": 2,
+              "x": 0.05532762815672468,
+              "y": 0.01268982297172574,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "5b4bf099-712c-4056-a7b4-b7a90a21fe6a",
+              "arrowNumber": 3,
+              "x": -0.015550801241714953,
+              "y": -0.05228207064351036,
+              "score": 10,
+              "detectionMethod": "manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5c43c906-60a0-4fda-8237-85b146495b55",
+      "date": "2026-10-03T01:52:33.336Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "arrowsPerEnd": 6,
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": []
+    },
+    {
+      "id": "313c78cd-3a97-45a5-ad83-26243ee05676",
+      "date": "2026-10-03T01:52:57.926Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "arrowsPerEnd": 6,
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": [
+        {
+          "id": "852b41b6-01b6-43c0-9a82-8271faae16b7",
+          "endNumber": 1,
+          "totalScore": 30,
+          "arrows": [
+            {
+              "id": "86ec6cb5-b905-4a49-9091-d2c3bc1fac73",
+              "arrowNumber": 1,
+              "x": -0.00964426545851167,
+              "y": 0.07175518080375856,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "cbf34248-6e43-48bf-9e75-52b47c74d683",
+              "arrowNumber": 2,
+              "x": -0.015550801241714953,
+              "y": -0.04637553486030708,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "638d310a-cbba-4ea4-9ffa-2e2227e54a81",
+              "arrowNumber": 3,
+              "x": -0.003737729675308388,
+              "y": -0.005029784377884106,
+              "score": 10,
+              "detectionMethod": "manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7eee509e-3360-45a6-bf37-8bd480c0e3f9",
+      "date": "2026-10-03T01:55:42.411Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "arrowsPerEnd": 6,
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": [
+        {
+          "id": "61c88b49-d6bc-4549-bf53-a088d7d73dc6",
+          "endNumber": 1,
+          "totalScore": 29,
+          "arrows": [
+            {
+              "id": "d7f3639d-c0b5-4ad0-b00e-55efef148ee6",
+              "arrowNumber": 1,
+              "x": -0.0628030875073412,
+              "y": 0.018273345079285155,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "3a1d8511-23c6-4ba1-8cdf-daeb35e2b3a0",
+              "arrowNumber": 2,
+              "x": 0.06714069972313125,
+              "y": 0.08915177447772478,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "b3a007bf-f4d6-43df-b4b9-b8ebe1061fdb",
+              "arrowNumber": 3,
+              "x": 0.03760802080711459,
+              "y": -0.04669854853595095,
+              "score": 10,
+              "detectionMethod": "manual"
+            }
+          ]
+        },
+        {
+          "id": "00860836-e50d-45f7-89dd-88ff5a22118f",
+          "endNumber": 2,
+          "totalScore": 26,
+          "arrows": [
+            {
+              "id": "561d076f-9491-4e6a-9c2c-099146bf5419",
+              "arrowNumber": 1,
+              "x": -0.11596190955617088,
+              "y": 0.030409430321335588,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "01f6d7cb-953c-4f34-94ad-41c77123781f",
+              "arrowNumber": 2,
+              "x": 0.13801912912157063,
+              "y": 0.15444668176860477,
+              "score": 8,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "0035390c-146a-4c84-94be-5ad982f726dd",
+              "arrowNumber": 3,
+              "x": -0.0982423022065609,
+              "y": -0.09362782112593333,
+              "score": 9,
+              "detectionMethod": "manual"
+            }
+          ]
+        },
+        {
+          "id": "b1890ddb-95b0-4ff1-9a15-90208f872dc7",
+          "endNumber": 3,
+          "totalScore": 28,
+          "arrows": [
+            {
+              "id": "98c11942-9389-4c7a-be2b-0ff1cc82d7d0",
+              "arrowNumber": 1,
+              "x": 0.013981877674301459,
+              "y": -0.0404689990771038,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "faef3951-4071-4316-9c03-7efb24b15821",
+              "arrowNumber": 2,
+              "x": -0.15140112425539057,
+              "y": -0.028655927510697236,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "3d0c0ae4-cd83-4fe2-9ef4-b7dd5e7c6e4e",
+              "arrowNumber": 3,
+              "x": 0.09076684285594437,
+              "y": 0.04222250188774215,
+              "score": 9,
+              "detectionMethod": "manual"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "408b1a82-cf06-4458-a887-2f1b31ce8b65",
+      "date": "2026-10-03T01:56:51.530Z",
+      "distance": 70,
+      "targetType": "WA 122 cm",
+      "bowDivision": "Barebow",
+      "sessionType": "Practice",
+      "arrowsPerEnd": 3,
+      "notes": "",
+      "weatherInfo": "",
+      "equipmentConfig": "",
+      "ends": [
+        {
+          "id": "6df20908-5593-4590-911b-a6c69e7b5750",
+          "endNumber": 1,
+          "totalScore": 28,
+          "arrows": [
+            {
+              "id": "5bc08cf1-ced0-45ed-8828-07ff5e95689d",
+              "arrowNumber": 1,
+              "x": 0.2443367732192297,
+              "y": 0.035992952428895,
+              "score": 8,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "72848ee3-7e74-4710-a087-e92b97352511",
+              "arrowNumber": 2,
+              "x": -0.06870962329054449,
+              "y": 0.03008641664569172,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "1bcd7012-696f-4367-bd47-74f332f0f224",
+              "arrowNumber": 3,
+              "x": 0.04942109237352115,
+              "y": 0.04189948821209828,
+              "score": 10,
+              "detectionMethod": "manual"
+            }
+          ]
+        },
+        {
+          "id": "5fb65ce6-f728-4796-baba-cc84db9bcc5c",
+          "endNumber": 2,
+          "totalScore": 28,
+          "arrows": [
+            {
+              "id": "56b7d915-85cc-4af5-b723-a3766d57703c",
+              "arrowNumber": 1,
+              "x": -0.015550801241714953,
+              "y": -0.017165869619934538,
+              "score": 10,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "e4f97470-4fc0-4939-8486-7f212f277ed1",
+              "arrowNumber": 2,
+              "x": -0.06870962329054449,
+              "y": 0.12459098917694447,
+              "score": 9,
+              "detectionMethod": "manual"
+            },
+            {
+              "id": "c14b912b-a4a1-4a2b-b23b-b8ae0795e1e3",
+              "arrowNumber": 3,
+              "x": 0.08486030707274109,
+              "y": 0.07143216712811494,
+              "score": 9,
+              "detectionMethod": "manual"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
